@@ -1,0 +1,13 @@
+<!---
+`dennisaldea/dennisaldea` is a special repository because its `README.md` (this file) appears on your GitHub profile.
+--->
+
+I apply bioinformatics to genomics research.
+
+<!---
+- 👋 Hi, I’m @dennisaldea
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+--->
