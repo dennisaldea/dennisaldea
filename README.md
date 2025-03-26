@@ -2,8 +2,8 @@
 `dennisaldea/dennisaldea` is a special repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 
-Computational Biology PhD student
-[Carja Laboratory](https://cbd.cmu.edu/people/carja.html "Lab Profile")
+Computational Biology PhD student  
+[Carja Laboratory](https://cbd.cmu.edu/people/carja.html "Lab Profile")  
 Carnegie Mellon University
 
 <!---
