@@ -3,8 +3,7 @@
 --->
 
 Computational Biology PhD Fellow  
-[Carja Laboratory](https://cbd.cmu.edu/people/carja.html "Lab Profile")  
-Carnegie Mellon University
+[Carja Lab](https://cbd.cmu.edu/people/carja.html "Lab Profile") @ Carnegie Mellon University
 
 <!---
 - 👋 Hi, I’m @dennisaldea
